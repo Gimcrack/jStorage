@@ -1,0 +1,14 @@
+{
+    "name": "ingenious/jstorage",
+    "description": "Composer for of andris9/jStorage",
+    "type": "component",
+    "authors": [
+        {
+            "name": "Andris Reinman",
+            "email": "andris.reinman@gmail.com"
+        }
+    ],
+	"license" : "unlicense",
+    "minimum-stability": "dev",
+    "require": {}
+}
